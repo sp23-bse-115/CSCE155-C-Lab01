@@ -1,7 +1,7 @@
 /**
- * Author: NAME
- *         EMAIL
- * Date: 20xx/xx/xx
+ * Author: ABBAS KHAN
+ *         ak5604178@gmail.com
+ * Date: 2023/10/22
  *
  * A simple hello world program in C
  *
